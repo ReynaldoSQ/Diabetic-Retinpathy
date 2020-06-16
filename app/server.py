@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1O7n54pQbwjpRVajeukeQWVHEsXq9wCtf/view'
+export_file_url = 'https://www.dropbox.com/s/he419ai9mxwkbng/export.pkl?dl=0'
 export_file_name = 'export.pkl'
 
 classes = ['ductal', 'lobular']
